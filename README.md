@@ -26,8 +26,8 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 ✔ 2. Tours 
 ✔ 3. Reviews
-4. Questions
-5. Menu
+✔ 4. Questions
+✔ 5. Menu
 6. Tabs
 7. Slider
 
