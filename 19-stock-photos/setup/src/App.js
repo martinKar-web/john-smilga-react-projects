@@ -12,7 +12,6 @@ const App = () => {
   const [page, setPage] = useState(1);
   const [query, setQuery] = useState("");
   const [newImages, setNewImages] = useState(false);
-
   const mounted = useRef(false);
 
   const fetchImages = async () => {
@@ -52,7 +51,6 @@ const App = () => {
 
   useEffect(() => {
     fetchImages();
-    // eslint-disable-next-line
   }, [page]);
 
   useEffect(() => {

@@ -60,9 +60,9 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 ✅ 16. Markdown Preview
 ✅ 17. Random Person
-18. Pagination
-19. Stock Photos
-20. Dark Mode
+✅ 18. Pagination
+✅ 19. Stock Photos
+✅ 20. Dark Mode
 21. Movie DB
 22. Hacker News
 23. Quiz
